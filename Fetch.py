@@ -5,7 +5,7 @@ import requests
 #curl -i "https://api.github.com/repos/Lakshyasukhralia/CellularAutomata/issues" -u "lakshyasukhralia"
 
 GITHUB_USER = 'lakshyasukhralia'
-GITHUB_PASSWORD = 'Haryana97'
+GITHUB_PASSWORD = '********'
 REPO = 'Lakshyasukhralia/CellularAutomata'
 ISSUES_FOR_REPO_URL = 'https://api.github.com/repos/%s/issues' % REPO
 AUTH = (GITHUB_USER, GITHUB_PASSWORD)
